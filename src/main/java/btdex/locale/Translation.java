@@ -34,6 +34,7 @@ public class Translation {
 		Locale.forLanguageTag("zh"),
 		Locale.forLanguageTag("zh-TW"),
 		Locale.forLanguageTag("ms"),
+		Locale.forLanguageTag("nl"),
 	};
 
 	static {
